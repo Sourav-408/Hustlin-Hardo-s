@@ -1,0 +1,14 @@
+@media (max-width:992px) {
+    .slider-line {
+        display: none;
+    }
+    .slider-line-position {
+        position: absolute;
+        left: 50%;
+    }
+}
+@media (max-width:576px){
+    .slider-line-position{
+        display: none;
+    }
+}

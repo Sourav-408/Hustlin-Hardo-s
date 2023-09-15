@@ -1,0 +1,72 @@
+:root {
+
+    --white: white;
+    --brown: #70675F;
+    --bg-gold: #A59A90;
+
+
+    --text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.25);
+
+
+
+    --fs-12: 12px;
+    --fs-10: 10px;
+    --fs-39: 39px;
+    --fs-36: 36px;
+    --fs-22: 22px;
+    --fs-18: 18px;
+    --fs-70: 70px;
+    --fs-80: 80px;
+    --fs-20: 20px;
+    --fs-25: 25px;
+    --fs-24: 24px;
+    --fs-50: 50px;
+    --fs-30: 30px;
+    --fs-16: 16px;
+    --fs-14: 14px;
+    --fs-48: 48px;
+
+
+    --fw-400: 400;
+    --fw-500: 500;
+    --fw-600: 600;
+    --fw-700: 700;
+    --fw-800: 800;
+    --fw-900: 900;
+
+
+
+    --ff-n: "Noto Serif";
+}
+
+@media (max-width:992px) {
+    :root {
+    
+    
+            --fs-12: 10px;
+            --fs-10: 8px;
+            --fs-39: 33px;
+            --fs-36: 28px;
+            --fs-22: 18px;
+            --fs-18: 18px;
+            --fs-70: 56px;
+            --fs-80: 62px;
+            --fs-20: 16px;
+            --fs-25: 20px;
+            --fs-50: 42px;
+            --fs-30: 25px;
+            --fs-16: 12px;
+            --fs-14: 10px;
+            --fs-48: 40px;
+    
+    
+            --fw-400: 400;
+            --fw-500: 500;
+            --fw-600: 600;
+            --fw-700: 700;
+    
+    
+    
+            --ff-n: "Noto Serif";
+        }
+}
